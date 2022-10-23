@@ -1,0 +1,10 @@
+/* Write your CSS here */
+.list-container {
+  list-style-type: none;
+}
+.button {
+  border-radius: 7px;
+  border-width: 0px;
+  padding: 10px;
+  margin: 10px;
+}

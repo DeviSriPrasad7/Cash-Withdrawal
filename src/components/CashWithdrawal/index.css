@@ -1,0 +1,53 @@
+/* Write your CSS here */
+.main-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.sub-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #382f5a;
+  border-radius: 7px;
+  border-width: 0px;
+  margin: 10px;
+  padding: 10px;
+}
+.balance-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.person-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.person-button {
+  border-radius: 40px;
+  border-width: 0px;
+  padding: 20px;
+  margin: 10px;
+  background-color: #c7d2fe;
+}
+.person-heading {
+  color: #c7d2fe;
+  font-family: 'Roboto';
+}
+.balance-heading {
+  color: #150b3e;
+  font-family: 'Roboto';
+  margin: 15px;
+}
+.money-value {
+  color: #c7d2fe;
+  font-size: 30px;
+  font-family: 'Roboto';
+}
+.unorder-list {
+  display: flex;
+  flex-wrap: wrap;
+}
